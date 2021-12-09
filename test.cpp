@@ -22,5 +22,8 @@ int32_t main()
 
         for(int i = 0; i < n; i++)
         cout<<"Hello World!"<<endl;
+
+	for(int i = 0; i < n; i++)
+	cout<<"Changes are made"<<endl;
     }
 }
