@@ -7,25 +7,11 @@ using namespace std;
 #define fast ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL)
 
 
-
 int32_t main()
 {
     fast;
 
-    int t;
-    cin>>t;
+    // Hello World Program
 
-    while(t--)
-    {
-        int n;
-        cin>>n;
-
-        for(int i = 0; i < n; i++)
-        cout<<"Hello World!"<<endl;
-
-        for(int i = 0; i < n; i++)
-        cout<<"Changes are made"<<endl;
-      
-	      // Changes are made in the main branch
-    }
+    cout << "Hello World";
 }
